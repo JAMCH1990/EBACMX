@@ -1,6 +1,6 @@
 # Prueba de Python
 # Se añadio la variable "c" 
-# Nueva variable "e"
+# Se añade la variable e como factor
 a = 10
 b = 30
 e = 1.1
